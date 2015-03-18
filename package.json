@@ -6,13 +6,13 @@
         "atom": "*",
         "node": "*"
     },
-    "homepage": "http://atom.github.io/language-inform6",
+    "homepage": "https://github.com/jomali/language-inform6",
     "repository": {
         "type": "git",
-        "url": "https://github.com/atom/language-inform6.git"
+        "url": "https://github.com/jomali/language-inform6.git"
     },
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/atom/language-inform6/issues"
+      "url": "https://github.com/jomali/language-inform6/issues"
     }
 }
